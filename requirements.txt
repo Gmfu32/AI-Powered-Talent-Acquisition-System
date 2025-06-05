@@ -1,0 +1,10 @@
+PyPDF2
+python-docx
+nltk
+spacy
+pandas
+scikit-learn
+flask
+werkzeug
+sentence_transformers
+transformers
