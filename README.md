@@ -12,7 +12,7 @@ Any organization must have a talent acquisition strategy that aims to find and h
 # Aim:
 To design and develop an AI-powered Talent Acquisition System that streamlines the recruitment process by intelligently analyzing resumes and job descriptions to identify the most suitable candidates efficiently and fairly.
 
-Objectives:
+# Objectives:
 1.	Automating Resume Screening by building a system that can parse and analyze resumes using AI techniques to extract key skills, experiences, and qualifications.
 2.	Implementing AI Matching by developing a semantic matching algorithm using BERT NLP model to score candidate relevance against job descriptions.
 3.	Reducing Application Spam Impact by integrating mechanisms to detect and deprioritize spam or AI-generated applications that do not genuinely meet job criteria.
